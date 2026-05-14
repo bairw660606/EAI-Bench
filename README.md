@@ -22,7 +22,7 @@
 | :---- | :---- | :---- | :---- |
 |  **[SCENEREPLICA](https://ieeexplore.ieee.org/abstract/document/10610180/)** | 2023 / 2024 | 得克萨斯大学达拉斯分校 | Khargonkar N, et al. Scenereplica: Benchmarking real-world robot manipulation by creating replicable scenes\[C\]//ICRA 2024\. (arXiv:2306.15620) |
 |  [**RoboArena**](https://arxiv.org/abs/2506.18123) | 2024 / 2025 | 加州大学伯克利分校 | ATREYA P, et al. RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies\[C\]//CoRL 2025\. (arXiv:2506.18123) |
-|  [**RoboChallenge**](https://arxiv.org/abs/2510.17950) | 2025 | 上海交通大学 | Yakefu A, et al. RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies\[J\]. arXiv preprint arXiv:2510.17950, 2025\. (arXiv:2510.17950) |
+|  [**RoboChallenge**](https://arxiv.org/abs/2510.17950) | 2025 | Dexmal 原力灵机 | Yakefu A, et al. RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies\[J\]. arXiv preprint arXiv:2510.17950, 2025\. (arXiv:2510.17950) |
 |  [**ManipulationNet**](https://arxiv.org/abs/2603.04363) | 2026 | 莱斯大学 | Chen Y, et al. ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning\[J\]. arXiv preprint arXiv:2603.04363, 2026\. (arXiv:2603.04363) |
 |  [**ManipArena**](https://arxiv.org/abs/2603.28545) | 2026 | 中山大学 | Sun Y, et al. ManipArena: Comprehensive Real-world Evaluation of Reasoning-Oriented Generalist Robot Manipulation\[J\]. arXiv preprint arXiv:2603.28545, 2026\. (arXiv:2603.28545) |
 
