@@ -1,8 +1,8 @@
 # **Embodied AI & Robotics Benchmarks**
 
-系统性梳理和追踪**具身智能（Embodied AI）与机器人**领域的基准测试（Benchmarks）与评测平台。  
+系统性梳理和追踪**具身智能（Embodied AI）与机器人**领域的基准测试（Benchmarks）与评测平台。
 
-> **组织与维护 (Maintained by):** CAICT EAIBench Team  
+> **组织与维护 (Maintained by):** CAICT EAIBench Team
 > **收录范围 (Scope):** 真实环境评测 (Real-world) + 仿真器 (Simulation) + 世界模型 (World Models)
 
 ## **🤖 具身智能基准测试发展时间轴图**
@@ -19,7 +19,7 @@
 
 针对真实物理环境中机器人操作、推理与泛化能力的基准测试 。近年来越来越注重规模化和复杂推理能力 。由于硬件搭建与数据收集成本较高，发布时间相对较晚，且多采用软硬件结合的挑战赛形式释出 。
 
-| 基准名称 (Benchmark) | 发布时间 | 第一作者机构 | 参考文献与链接信息 |
+| 基准名称 (Benchmark) | 首次发布/收录年份 | 第一作者机构 | 参考文献与链接信息 |
 | --- | --- | --- | --- |
 | **[SCENEREPLICA]()** | 2024 | 得克萨斯大学达拉斯分校 | Khargonkar N, et al. Scenereplica: Benchmarking real-world robot manipulation by creating replicable scenes<br>$$C$$
 
@@ -43,7 +43,7 @@
 
 基于虚拟仿真环境的低成本、可重复验证平台，涵盖长视野（Long-Horizon）任务、多模态指令与大规模物理仿真 。过去几年呈现爆发式增长，逐渐演进为长视野、多模态大语言模型导向以及安全性、物理规则的复合评测 。
 
-| 基准名称 (Benchmark) | 发布时间 | 第一作者机构 | 参考文献与链接信息 |
+| 基准名称 (Benchmark) | 首次发布年份 | 第一作者机构 | 参考文献与链接信息 |
 | --- | --- | --- | --- |
 | **[VIMA-Bench]()** | 2022 | 斯坦福大学 | JIANG Y, et al. VIMA: Robot Manipulation with Multimodal Prompts<br>$$C$$
 
@@ -63,7 +63,7 @@
 | **[Habitat 3.0]()** | 2024 | Meta AI | PUIG X, et al. Habitat 3.0: A Co-Habitat for Humans, Avatars, and Robots<br>$$C$$
 
 <br>//ICLR 2024. (arXiv:2310.13724) |
-| **[CHORES]()** | 2024 | 艾伦人工智能研究所 | EHSANI K, et al. SPOC: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World<br>$$C$$
+| **[CHORES (SPOC)]()** | 2024 | 艾伦人工智能研究所 | EHSANI K, et al. SPOC: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World<br>$$C$$
 
 <br>//CVPR 2024. (arXiv:2406.11827) |
 | **[THE COLOSSEUM]()** | 2024 | 秘鲁圣保罗天主教大学 | PUMACAY W, et al. THE COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation<br>$$C$$
@@ -109,7 +109,7 @@
 
 利用生成式视频或交互式物理世界模型作为“仿真器”进行策略验证与评估的新兴基准 。这种方式能够打破传统刚体物理引擎的限制 。
 
-| 基准名称 (Benchmark) | 发布时间 | 第一作者机构 | 参考文献与链接信息 |
+| 基准名称 (Benchmark) | 首次发布年份 | 第一作者机构 | 参考文献与链接信息 |
 | --- | --- | --- | --- |
 | **[Vid2World]()** | 2025 | 清华大学 | HUANG S, et al. Vid2World: Crafting Video Diffusion Models to Interactive World Models<br>$$C$$
 
