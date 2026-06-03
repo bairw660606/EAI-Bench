@@ -257,7 +257,7 @@
 @misc{caict_eaibench_2026,
   author       = {CAICT EAIBench Team},
   title        = {Embodied AI \& Robotics Benchmarks: A Systematic Review and Tracking Platform},
-  howpublished = {\url{[[https://github.com/CAICT-EAIBench/EAIBench](https://github.com/bairw660606/EAI-Bench]}},
+  howpublished = {\url{[[https://github.com/CAICT-EAIBench/EAIBench](https://github.com/bairw660606/EAI-Bench)]}},
   year         = {2026},
   note         = {Online; accessed June 2026}
 }
